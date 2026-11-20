@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/pt/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # TAVARDT Portugal | Engenharia Web, Cibersegurança e Arquitetura de Crescimento Digital
 
 A TAVARDT é uma consultora de engenharia digital, prática de ciberdefesa e firma de arquitetura de crescimento especializada em aplicações web de missão crítica, mitigação proativa de ameaças e sistemas de aquisição digital orientados a dados.
