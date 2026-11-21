@@ -79,7 +79,7 @@ Este repositório atua como o nó central de distribuição técnica e documenta
 
 A suite de diagnósticos da TAVARDT está acessível publicamente para validação técnica, auditoria de vulnerabilidades e testes de desempenho orgânico:
 
-* [Avaliador de Robustez de LLMs & Stress Tester de Guardrails](https://tools.tavardt.com/pt/llm-robustness-evaluator/): Fuzzer e simulador de segurança defensiva para auditoria de system prompts de LLMs contra injeções de prompt, quebra de personas e fuga de instruções. Resilience Score (0-100) + blueprints defensivos. ([Repositório GitHub](https://tavardt-portugal.github.io/llm-robustness-evaluator-pt/))
+* [Avaliador de Robustez de LLMs & Stress Tester de Guardrails](https://tools.tavardt.com/pt/avaliador-robustez-llm/): Fuzzer e simulador de segurança defensiva para auditoria de system prompts de LLMs contra injeções de prompt, quebra de personas e fuga de instruções. Resilience Score (0-100) + blueprints defensivos. ([Repositório GitHub](https://tavardt-portugal.github.io/llm-robustness-evaluator-pt/))
 * [Verificador DMARC e Spoofing de Email](https://tools.tavardt.com/pt/verificador-dmarc-email/): Valida políticas DMARC, alinhamento SPF e chaves públicas DKIM para impedir a usurpação de identidade de domínio.
 * [Análise de Cabeçalhos de Segurança HTTP](https://tools.tavardt.com/pt/analise-cabecalhos-seguranca/): Audita a implementação de cabeçalhos de resposta HTTP, incluindo CSP, HSTS, X-Frame-Options e Referrer-Policy.
 * [Detetor de SEO Spam e Sites Comprometidos](https://tools.tavardt.com/pt/detetor-seo-spam-site-hackeado/): Identifica injeções de hiperligações ocultas, cloaking condicional de servidor e spam malicioso em código.
